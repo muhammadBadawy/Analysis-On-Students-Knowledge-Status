@@ -1,5 +1,6 @@
 # Students' Knowledge Status
 
+**To see the results, view result.ipynb**
 
 **Abstract:** \
 It is the real dataset about the students' knowledge status about the subject of Electrical DC Machines. The dataset had been obtained from Ph.D. Thesis.
@@ -12,9 +13,6 @@ See article for more details on how the users' data was collected and evaluated 
 
 H. T. Kahraman, Sagiroglu, S., Colak, I., Developing intuitive knowledge classifier and modeling of users' domain dependent data in web,
 Knowledge Based Systems, vol. 37, pp. 283-295, 2013. 
-
-
-**to see the results, open result.ipynb**
 
     
 | Attribute Information:                                                      |
